@@ -4,7 +4,7 @@
 </div>
 
 ## 🎓 I'm a Full Stack Software Engineer with almost a decade of experience in healthcare and behavioral health.
-- 🚀 Currently practicing DS&A and learning Go.
+- 🚀 Currently practicing DS&A, Java and Spring Boot
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
 - 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
 - 🗨️ Feel free to inquire about any topic.
@@ -25,6 +25,6 @@
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind,jquery,react,express,babel,jest,vscode,bash,git,github,ai,linux,mongodb,mysql,nodejs,postgres,postman,firebase,nginx,webpack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,spring,python,html,css,tailwind,jquery,react,express,babel,jest,vscode,bash,git,github,ai,linux,mongodb,mysql,nodejs,postgres,postman,firebase,nginx,webpack" />
   </a>
 </p>
