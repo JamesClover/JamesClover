@@ -4,7 +4,7 @@
 </div>
 
 ## 🎓 I'm a Full Stack Software Engineer with almost a decade of experience in healthcare and behavioral health.
-- 🚀 Currently completing a CS MAaster's Program (MCIT) at Upenn, practicing DS&A, Java and Spring Boot.
+- 🚀 Currently completing a CS Master's Program (MCIT) at Upenn, practicing DS&A, Java and Spring Boot.
 - 🌿 Improved my skills in intermediate full-stack development through Hack Reactor's Coding Bootcamp.
 - 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
 - 🗨️ Feel free to inquire about any topic.
